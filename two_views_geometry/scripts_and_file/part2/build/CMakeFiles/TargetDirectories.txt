@@ -1,0 +1,3 @@
+/home/majie/master2/AVG/lab2/scripts_and_file/lab2_part2/build/CMakeFiles/rebuild_cache.dir
+/home/majie/master2/AVG/lab2/scripts_and_file/lab2_part2/build/CMakeFiles/stereoVision.dir
+/home/majie/master2/AVG/lab2/scripts_and_file/lab2_part2/build/CMakeFiles/edit_cache.dir
